@@ -1,4 +1,4 @@
-name: error-check
+name: Super-Linter
 
 on: push
 
