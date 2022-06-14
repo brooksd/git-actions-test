@@ -4,4 +4,4 @@ def sum_numbers(numbers):
     return numbers[0] + sum_numbers(numbers[1:])
 
 
-print(sum_numbers([1, 2, 3, 4, 5]))
+print(sum_numbers([1, 2, 3, 4, 5, 6]))
